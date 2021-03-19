@@ -1,12 +1,17 @@
 title: Joe Kelly # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Developer student at Northcoders. 
+  Full stack developer student at Northcoders. 
   <br><br>
-  I am confident with back-end development and have used Javascript extensively to complete projects. 
+    I am confident with back-end development and have used Javascript extensively to complete projects. 
   Other software I am familar with include Express, Knex and Jest. I will be learning CSS and Html in
   the coming weeks.
   <br><br>
+    Education: Most recently I completed a masters degree in audio for video games at ThinkSpace Education,
+  part of the University of Chichester. This is where I developed my interest in programming. Before this I 
+  completed a BA in music at the University of Liverpool.
+  <br><br>
+    
   <a href="https://www.linkedin.com/in/joe-kelly-ab4861138/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-time-machine
