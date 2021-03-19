@@ -7,10 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Other software I am familar with include Express, Knex and Jest. I will be learning CSS and Html in
   the coming weeks.
   <br><br>
-    Education: Most recently I completed a masters degree in audio for video games at ThinkSpace Education,
+    <p style="color:blue">Education</p>: Most recently I completed a masters degree in audio for video games at ThinkSpace Education,
   part of the University of Chichester. This is where I developed my interest in programming. Before this I 
   completed a BA in music at the University of Liverpool.
   <br><br>
+    
     
   <a href="https://www.linkedin.com/in/joe-kelly-ab4861138/">View My LinkedIn Profile</a> 
   
